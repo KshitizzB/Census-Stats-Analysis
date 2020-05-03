@@ -1,5 +1,5 @@
 # Census-Reporting-System
-Power BI report on Census Data
+Power BI dashboard report on Census Data
 
 IDE Used: Power BI Desktop
 
